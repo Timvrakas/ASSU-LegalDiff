@@ -119,18 +119,18 @@
             3. No member of the Graduate Student Council in attendance at a meeting of the Graduate Student Council may for any reason be disenfranchised. No vote taken in violation of this rule shall be considered valid.
         3. Graduate Student Council Quorum
             1. Quorum for conducting votes mandated in this Constitution shall consist of a majority of the non-vacant Graduate Student Council seats.
-        Ex-Officio Members of the Graduate Student Council
+        4. Ex-Officio Members of the Graduate Student Council
             1. The President of the Association, members of the Undergraduate Senate, and Financial Manager shall be ex-officio members of the Graduate Student Council.
             2. The Graduate Student Council may appoint other members of the Association as ex-officio members of the Graduate Student Council.
-        4. Graduate Student Council Term of Office and Transition
+        5. Graduate Student Council Term of Office and Transition
             1. The term of office and transition procedures for the Graduate Student Council shall be specified in the Graduate Student Council's By-Laws, with the condition that whatever the procedures are, they must be completed by the end of the academic quarter in which the election for the Graduate Student Council took place.
-        5. Graduate Student Council Officers
+        6. Graduate Student Council Officers
             1. The Graduate Student Council shall choose its Chair, Deputy Chair, and Financial Officer. The Chair shall preside over the Graduate Student Council.
-        6. Removal from the Graduate Student Council
+        7. Removal from the Graduate Student Council
             1. The procedure for removing members of the Graduate Student Council shall be specified in the Graduate Student Council's By-Laws.
-    5. Budgetary and Financial Policy
+    5. Budgetary and Financial Policy  
         Except as otherwise provided in this Constitution, the members of the Association shall have the ultimate authority to determine the budget of the Association and its agencies, as well as their budgetary, financial, investment, business, and operating policies. The members of the various Association populations shall also have the ultimate authority to establish rules ensuring that funds derived from fees levied upon those populations are expended and accounted for properly. As the representative bodies for the students, the legislative bodies of the Association shall exercise these powers in the names of the members of their respective constituencies.
-    6. Agencies of the Association
+    6. Agencies of the Association  
         The legislative bodies of the Association shall have the power to create, modify, and abolish agencies of the Association including, but not limited to, projects providing services to members of the Association. The functions, structure, officers, and finances of all such agencies may be specified jointly by the Undergraduate Senate and the Graduate Student Council for those agencies whose purpose involves members of both the undergraduate and graduate populations. Otherwise, the above structures may be specified only by the legislative body for the relevant population.
     7. Nominations Commission
         1. Each year, the legislative bodies of the Association shall jointly choose the Nominations Commission. No member of an Association legislative body may be a member of the Nominations Commission. All members of the Association are, except as specified in this section, eligible to serve on the Nominations Commission.
@@ -138,25 +138,25 @@
         3. The Nominations Commission may recommend to the relevant legislative bodies the removal of any representative of the Association on a University committee who does not regularly attend meetings of her/his committees or do not otherwise fulfill her/his obligations to her/his committee. The Undergraduate Senate and the Graduate Student Council may by a two-thirds vote remove such members. The legislative bodies of the Association may only act to remove a representative of the Association after the Nominations Commission recommends her/his removal.
         4. Alternate procedures for these nominations may be specified through agreements between the relevant Association legislative bodies, the President of the Association, and the President of the University, if the Nominations Commission is unable to make the nominations. Such agreements must be submitted by the President of the Association to the relevant Association legislative bodies in writing. All such agreements must meet with the approval of the President of the Association as well as a majority vote of the Undergraduate Senate and the Graduate Student Council.
         5. No such agreement may last for more than a period of one year, but may be renewed by the relevant Association legislative body each year.
-    8. Confirmation of Appointments
+    8. Confirmation of Appointments  
         The Association legislative bodies shall have the right to confirm appointments of representatives of the Stanford student body, except in those cases where an alternate procedure has been approved by a majority vote of the Association voting in a general election.
-    9. Elections
+    9. Elections  
         Each Association legislative body shall have sole power to make rules governing elections involving only members of the population it represents, in accordance with this Constitution. For elections involving the Association population, the Association legislative bodies shall have the joint power to make rules, in accordance with this Constitution.
     10. By-Laws
-        A. Undergraduate Senate By-Laws
+        1. Undergraduate Senate By-Laws
             1. Shall cover those matters affecting only the undergraduate population and its representatives.
             2. May be amended at a regular meeting of the Undergraduate Senate by a two-thirds vote of the members present and voting, provided that notice has been given at the previous regular meeting.
-        B. Graduate Student Council By-Laws
+        2. Graduate Student Council By-Laws
             1. Shall cover those matters affecting only the graduate population and its representatives.
             2. May be amended at a regular meeting of the Graduate Student Council by a two-thirds vote of the members present and voting, provided that notice has been given at the previous regular meeting.
-        C. Association By-Laws
+        3. Association By-Laws
             1. Shall cover all matters affecting both the graduate and undergraduate populations, or affecting both populations' representatives.
-            2. May be amended only by joint approval of the Undergraduate Senate and Graduate Student Council, in the manners described in Paragraphs A(2) and B(2) of this Section, respectively.
-    11. Joint Meetings of the Association Legislative Bodies
+            2. May be amended only by joint approval of the Undergraduate Senate and Graduate Student Council, in the manners described in Paragraphs 1.2 and 2.2 of this Section, respectively.
+    11. Joint Meetings of the Association Legislative Bodies  
         The Executive Committee shall have the power to call joint meetings of the Association legislative bodies. The Vice President of the Association shall serve as the Presiding Officer of all such joint meetings. The procedures for calling such meetings shall be included in the Association By-Laws. The only conditions on these procedures are that public notice must be given of all such meetings, minutes must be taken at all such meetings, and these minutes must be made publicly available within one week of being approved.
-    12. Joint Approval by Association Legislative Bodies
+    12. Joint Approval by Association Legislative Bodies  
         Unless otherwise stated in this Constitution, the joint approval of any item of business by the Association legislative bodies shall not necessarily require a joint meeting of the Association legislative bodies.
-    13. Open Ballot
+    13. Open Ballot  
        All votes of Association legislative bodies shall be by open ballot.
 4. Executive Branch
     1. The President and Vice President
@@ -188,7 +188,7 @@
         4. [The Executive Committee shall have the power, by [consensus][8], to call joint meetings of the Association legislative bodies.][9]
         5. [The Executive Committee shall have the power, by [consensus][10] to force joint consideration of any item of business by the Association legislative bodies. This joint consideration shall not necessarily imply the need for a joint meeting of the Association legislative bodies.][11]
         6. The Executive Committee shall have the power, by [consensus]7), to name any other members of the Association ex-officio members of the Executive Committee.
-    Section 5. Powers and Responsibilities
+    5. Powers and Responsibilities
         1. The President shall serve as the chief administrator and executive of all Association functions. She or he shall oversee and coordinate the day to day operations and activities of the Association. The President shall see to it that all measures adopted by the Association legislative bodies are carried out and enforced.
         2. The President shall be the chief representative and liaison between the Association and all other bodies, both inside the University community and outside.
         3. The President shall have the power to call special meetings of the Undergraduate Senate, the Graduate Student Council, and of the Association in general.The President may establish committees as necessary and may appoint members to those groups. All such committees shall be subject to the freedom of information restrictions outlined throughout this Constitution.
@@ -198,18 +198,18 @@
         7. During winter quarter, the President of the Association shall deliver a State of the Association address open to all members of the University community. Notice of the address must be made in a public place two weeks before the address. Members of the Association shall then have the opportunity to publicly address the President of the Association.
 
 
-Article IV: Judicial Branch
-    Section 1. Judicial Authority
+5. Judicial Branch
+    1. Judicial Authority
         The Association shall recognize the authority of University judicial bodies over members of the Association only if those judicial bodies shall have been approved by two-thirds of those members of the Association voting in a general election.
-    Section 2. Judicial Review
-        A. Constitutional Council
+    2. Judicial Review
+        1. Constitutional Council  
             The Constitutional Council shall adjudicate all cases where the constitutionality [under the ASSU Constitution][12] of an act by an Association legislative body, the President of the Association, or any member(s) of the Association is called into question.
-        B. Membership of the Council
+        2. Membership of the Council  
             The Constitutional Council of the Association shall be comprised of 5 members and shall choose by majority vote a chair each year within three weeks of the beginning of fall quarter.
             1. All members must be current members of the Association. Members shall serve until they resign, cease to be members of the Association, or are removed by a 4/5 vote of both Association legislative bodies.
             2. Should a seat within the Constitutional Council be vacant, the President of the Association shall select a member of the Association to fill that vacancy. This selection must be confirmed by a 2/3 vote of both Association legislative bodies.[13]
             3. No person may concurrently be a member of the Council and an elected or appointed officer of the Association. No employee of the Association may simultaneously be a member of the Council.
-        C. Meetings of the Council
+        3. Meetings of the Council
             1. Unless a majority of the Council deems it frivolous, the chair of the Council shall call a meeting of the Council within seven days of receipt of a case filing. Meetings shall be held within ten days of the issuance of a call for the meeting.
             2. The Council shall make its rulings by majority vote. In ruling on any action, it may only vote to uphold the constitutionality of the action, or deem the action unconstitutional. A tie vote shall be construed as upholding the action’s constitutionality.
             3. Before the Council rules on an issue, it shall offer the individual or individuals accused of acting in an unconstitutional manner the right to present a case. The Council shall also offer a representative of the individuals who believe the accused to have acted unconstitutionally the right to present a case. The Council may, at its discretion, allow other members of the Association to speak to the issue.
