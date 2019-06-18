@@ -27,26 +27,26 @@
       6. Presiding Officer of the Undergraduate Senate        15
       7. G. Removal from the Undergraduate Senate        15
    4. Section 4. Graduate Student Council: Organization and Procedures        15
-        A. Election of the Graduate Student Council        15
-        B. Apportionment of votes in the Graduate Student Council        16
-        C. Graduate Student Council Quorum        16
-        Ex-Officio Members of the Graduate Student Council        16
-        D. Graduate Student Council Term of Office and Transition        16
-        E. Graduate Student Council Officers        16
-        F. Removal from the Graduate Student Council        16
-    Section 5. Budgetary and Financial Policy        17
-    Section 6. Agencies of the Association        17
-    Section 7. Nominations Commission        17
-    Section 8. Confirmation of Appointments        18
-    Section 9. Elections        18
-    Section 10. By-Laws        18
-        A. Undergraduate Senate By-Laws        18
-        B. Graduate Student Council By-Laws        18
-        C. Association By-Laws        18
-    Section 11. Joint Meetings of the Association Legislative Bodies        19
-    Section 12. Joint Approval by Association Legislative Bodies        19
-    Section 13. Open Ballot        19
-Article III: Executive Branch        20
+      1. A. Election of the Graduate Student Council        15
+      2. B. Apportionment of votes in the Graduate Student Council        16
+      3. C. Graduate Student Council Quorum        16
+      4. Ex-Officio Members of the Graduate Student Council        16
+      5. D. Graduate Student Council Term of Office and Transition        16
+      6. E. Graduate Student Council Officers        16
+      7. F. Removal from the Graduate Student Council        16
+   5. Section 5. Budgetary and Financial Policy        17
+   6. Section 6. Agencies of the Association        17
+   7. Section 7. Nominations Commission        17
+   8. Section 8. Confirmation of Appointments        18
+   9. Section 9. Elections        18
+   10. Section 10. By-Laws        18
+       1.  A. Undergraduate Senate By-Laws        18
+       2.  B. Graduate Student Council By-Laws        18
+       3.  C. Association By-Laws        18
+   11. Section 11. Joint Meetings of the Association Legislative Bodies        19
+   12. Section 12. Joint Approval by Association Legislative Bodies        19
+   13. Section 13. Open Ballot        19
+4.  Article III: Executive Branch        20
     Section 1. The President and Vice President        20
     Section 2. Qualifications        20
     Section 3. Election        21
