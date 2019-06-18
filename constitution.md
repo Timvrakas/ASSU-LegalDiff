@@ -132,7 +132,6 @@
       1. General
       2. Petitions
       3. Notice
-?? Lol?
 
     Section 2. Ratification        51
     Section 3. Unconditional Acceptance        51
