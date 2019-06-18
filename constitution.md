@@ -1,6 +1,6 @@
 ﻿# The Constitution of the Associated Students of Stanford University
 
-![](https://assu.stanford.edu/sites/g/files/sbiybj6236/f/assu_logo_transparent_background_for_small_documents-01.png =200x)
+![ASSU Logo](https://assu.stanford.edu/sites/g/files/sbiybj6236/f/assu_logo_transparent_background_for_small_documents-01.png =200x)
 
 1. Preamble to the Constitution
     1. The Signing Statement  
