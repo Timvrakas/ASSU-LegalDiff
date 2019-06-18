@@ -182,6 +182,7 @@ Selected Letters of Acceptance
    2. Preamble
            We, the students of Stanford University, in order to advance our interests, define our responsibilities and to provide for our meaningful participation in the governance of the University, do hereby associate and establish this Constitution. Having received the acceptance of the University and the Board of Trustees, this Constitution shall be respected by University officials, faculty and staff in their dealings with students of the University.
 
+
 2. Name, Scope, Membership, and Independence
    1. Name
         The name of the organization under this Constitution shall be the Associated Students of Stanford University, hereafter referred to as the “Association.”
@@ -196,7 +197,7 @@ Selected Letters of Acceptance
         2. The Association shall enact no legislation respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Association for a redress of grievances.
         3. All members of the Association have the right to attend all open meetings of the Association and to view all open records of the Association.
         4. The final authority of the Association shall in perpetuity be vested in the members of the Association—the students of Stanford University.
-    4. Rights of the Accused
+   4. Rights of the Accused
             An accused member of the Association shall have the following rights. Any judicial body hearing a case against that person shall inform her or him of his or her rights guaranteed under this section at the time she or he is notified of the charges against him or her.
          1. To be informed of all the charges and the alleged acts upon which those charges are based.
          2. To be allowed a reasonable time in which to prepare a defense.
@@ -210,31 +211,31 @@ Selected Letters of Acceptance
          10. To be assured that no record of the case is placed on their transcript.
          11. To have no person presenting evidence against them sit in judgment of them.
          12. In instances of conviction under State or Federal law, the judicial body shall not assess penalties if the circumstances of the case indicate that such penalties would be inequitable to the defendant when imposed in addition to civil or criminal penalties. This limitation shall not apply when the judicial body’s proceedings are deemed necessary by the judicial body to protect the University community from risk or harm. Nothing in this paragraph, however, shall be interpreted as barring or delaying action by the judicial body on a case because a similar charge is pending before a civil court.
-    Section 5. Representation and Accountability
+   5. Representation and Accountability
         This Association shall be the sole representative of the entire Stanford student body.
-            A. Within the University
-                Only this Association and its designees shall represent the entire Stanford student body, or a population of the Association, in any dealings with other elements of the University.
-            B. Outside the University
-                1. Only this Association and its designees shall have the right to represent the entire Stanford student body, or a population of the Association, in non-University affairs.
-                2. No Association governing body, including the Association legislative bodies, members of the Association legislative bodies, the President, and the Vice President, shall exercise this right in matters not directly affecting Stanford students. A matter shall be construed as directly affecting Stanford students only if there is at least one Stanford student who is affected by the matter in a substantially different manner than would be the case if he or she were not a university student.
-                3. This prohibition may be waived for a specific issue for a one-year period following passage of a referendum in a general election by a two-thirds vote of the appropriate population of the Association specifically authorizing certain Association actions on that specific issue.
-    Section 6. Independence
+      1. Within the University
+             Only this Association and its designees shall represent the entire Stanford student body, or a population of the Association, in any dealings with other elements of the University.
+      2. Outside the University
+             1. Only this Association and its designees shall have the right to represent the entire Stanford student body, or a population of the Association, in non-University affairs.
+             2. No Association governing body, including the Association legislative bodies, members of the Association legislative bodies, the President, and the Vice President, shall exercise this right in matters not directly affecting Stanford students. A matter shall be construed as directly affecting Stanford students only if there is at least one Stanford student who is affected by the matter in a substantially different manner than would be the case if he or she were not a university student.
+             3. This prohibition may be waived for a specific issue for a one-year period following passage of a referendum in a general election by a two-thirds vote of the appropriate population of the Association specifically authorizing certain Association actions on that specific issue.
+   6. Independence
         1. The Association shall be, except as defined within this Constitution, a body independent from control or suspension by Stanford University. The University shall not have the power to veto legislation approved by any population of the Association and either or both legislative bodies of the Association, except as defined within this Constitution. The finances of the Association shall be independent of the University, except as defined within this Constitution.
         2. All power of Stanford University within the Association is circumscribed by this Constitution. Any action by Stanford University within the Association not specifically enumerated within this Constitution is a violation of the independence of the Association.
-    Section 7. Freedom of Information
+   7. Freedom of Information
         1. All records of any Association entity must be available for scrutiny by the public with the exception of proprietary business information of Association businesses, financial records for non-funded accounts of organizations banking with the Association, Legal Counseling records, and personnel records of employees. Every other Association organ must allow access to records. This access must be open to all and subject only to administrative requirements to safeguard the information and to provide access in a timely, efficient manner.
         2. All meetings of Association legislative bodies, and all meetings of [student][2] bodies in which one or more Association legislators is acting in an official representative capacity shall be open for observation to all members of the Association.
         3. Members of the Association shall be given reasonable opportunity to make their views known at all such meetings.
         4. Recordings of all such meetings may be made so long as the act of recording the meeting does not interfere in a substantial way with conducting the meeting.
         5. Information regarding the location, time and agenda for all such meetings must be made available in a public place. This information must also be made available in electronic form. This information must be made available at least 24 hours before the meeting is to be held.
         6. All minutes of meetings of Association legislative bodies, committees of those bodies, and the Executive Committee must be made available in electronic form within seven days of being approved.
-        7. The groups mentioned in Section 7(2) above may close a meeting to discuss a specific issue if and only if one of the following conditions is met:
-            1. [The body must discuss the appointment, the employment, the performance, or the dismissal of an Association member or employee who is neither the President, the Vice President, nor a member of an Association legislative body.][3]
+        7.  The groups mentioned in Section 7(2) above may close a meeting to discuss a specific issue if and only if one of the following conditions is met:
+            1. The body must discuss the appointment, the employment, the performance, or the dismissal of an Association member or employee who is neither the President, the Vice President, nor a member of an Association legislative body.
             2. The body must discuss pending litigation.
             3. The body must discuss proprietary business practices.
-        8. Information regarding the general content of a closed meeting and the reason for its closure shall be made available to the public 24 hours in advance of the meeting.
-        9. During the closed session, the body shall discuss only the issue or issues which caused the meeting to be closed.
-    Section 8. Amendment
+        8.  Information regarding the general content of a closed meeting and the reason for its closure shall be made available to the public 24 hours in advance of the meeting.
+        9.  During the closed session, the body shall discuss only the issue or issues which caused the meeting to be closed.
+   8.  Amendment
         The power to amend this Constitution [which][4] shall in perpetuity be vested in the members of the Association [shall be exercised pursuant to the terms and procedures of Article VII of this Constitution].[5]
 
 
