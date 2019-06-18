@@ -174,40 +174,42 @@ Appendix 1: Fee Statement of the Undergraduate Programming, Social, and Communit
 Selected Letters of Acceptance
 
 
-Preamble to the Constitution
-The Signing Statement
-    [In order to encourage responsible citizenship and the exercise of individual and corporate responsibility on the part of students in the government of student affairs and activities, Stanford University, by approval of this Constitution, authorizes the Associated Students of Stanford University to exercise and discharge major privileges and responsibilities within the framework of policies and regulations established by the University through the President of the University and the Board of Trustees.]1)
-Preamble
-    We, the students of Stanford University, in order to advance our interests, define our responsibilities and to provide for our meaningful participation in the governance of the University, do hereby associate and establish this Constitution. Having received the acceptance of the University and the Board of Trustees, this Constitution shall be respected by University officials, faculty and staff in their dealings with students of the University.[1]
 
-Article I: Name, Scope, Membership, and Independence
-    Section 1. Name
+
+1. Preamble to the Constitution
+   1. The Signing Statement
+           In order to encourage responsible citizenship and the exercise of individual and corporate responsibility on the part of students in the government of student affairs and activities, Stanford University, by approval of this Constitution, authorizes the Associated Students of Stanford University to exercise and discharge major privileges and responsibilities within the framework of policies and regulations established by the University through the President of the University and the Board of Trustees.
+   2. Preamble
+           We, the students of Stanford University, in order to advance our interests, define our responsibilities and to provide for our meaningful participation in the governance of the University, do hereby associate and establish this Constitution. Having received the acceptance of the University and the Board of Trustees, this Constitution shall be respected by University officials, faculty and staff in their dealings with students of the University.
+
+2. Name, Scope, Membership, and Independence
+   1. Name
         The name of the organization under this Constitution shall be the Associated Students of Stanford University, hereafter referred to as the “Association.”
-    Section 2. Membership and Populations
+   2. Membership and Populations
         1. All registered students of Stanford University, and only such persons, shall be members of this Association.
         2. The following population subsets of the Association shall be defined:
             1. Undergraduate population: All undergraduate members of the Association
             2. Graduate population: All graduate and professional school members of the Association
             3. Association population: All members of the Association
-    Section 3. Rights of Membership
+   3.  Rights of Membership
         1. All members of the Association shall also be liable for such fees as this Association may assess. However, all members shall have the right to a full refund of any and all fees paid to the Association.
         2. The Association shall enact no legislation respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Association for a redress of grievances.
         3. All members of the Association have the right to attend all open meetings of the Association and to view all open records of the Association.
         4. The final authority of the Association shall in perpetuity be vested in the members of the Association—the students of Stanford University.
-    Section 4. Rights of the Accused
-        An accused member of the Association shall have the following rights. Any judicial body hearing a case against that person shall inform her or him of his or her rights guaranteed under this section at the time she or he is notified of the charges against him or her.
-            1. To be informed of all the charges and the alleged acts upon which those charges are based.
-            2. To be allowed a reasonable time in which to prepare a defense.
-            3. To hear all evidence upon which charges are based, and to answer this evidence through rebuttal.
-            4. To call witnesses before the judicial body and to confront any other witnesses before the judicial body.
-            5. To be assured that, unless the defendant asks for an open hearing, any matters of facts which would tend to identify the person or persons involved in a case would be kept confidential.
-            6. To have an open hearing.
-            7. To request that any member of the judicial body be disqualified because of prejudice.
-            8. To be informed of the above rights by proper summons.
-            9. To be considered innocent until proven guilty beyond a reasonable doubt.
-            10. To be assured that no record of the case is placed on their transcript.
-            11. To have no person presenting evidence against them sit in judgment of them.
-            12. In instances of conviction under State or Federal law, the judicial body shall not assess penalties if the circumstances of the case indicate that such penalties would be inequitable to the defendant when imposed in addition to civil or criminal penalties. This limitation shall not apply when the judicial body’s proceedings are deemed necessary by the judicial body to protect the University community from risk or harm. Nothing in this paragraph, however, shall be interpreted as barring or delaying action by the judicial body on a case because a similar charge is pending before a civil court.
+    4. Rights of the Accused
+            An accused member of the Association shall have the following rights. Any judicial body hearing a case against that person shall inform her or him of his or her rights guaranteed under this section at the time she or he is notified of the charges against him or her.
+         1. To be informed of all the charges and the alleged acts upon which those charges are based.
+         2. To be allowed a reasonable time in which to prepare a defense.
+         3. To hear all evidence upon which charges are based, and to answer this evidence through rebuttal.
+         4. To call witnesses before the judicial body and to confront any other witnesses before the judicial body.
+         5. To be assured that, unless the defendant asks for an open hearing, any matters of facts which would tend to identify the person or persons involved in a case would be kept confidential.
+         6. To have an open hearing.
+         7. To request that any member of the judicial body be disqualified because of prejudice.
+         8. To be informed of the above rights by proper summons.
+         9. To be considered innocent until proven guilty beyond a reasonable doubt.
+         10. To be assured that no record of the case is placed on their transcript.
+         11. To have no person presenting evidence against them sit in judgment of them.
+         12. In instances of conviction under State or Federal law, the judicial body shall not assess penalties if the circumstances of the case indicate that such penalties would be inequitable to the defendant when imposed in addition to civil or criminal penalties. This limitation shall not apply when the judicial body’s proceedings are deemed necessary by the judicial body to protect the University community from risk or harm. Nothing in this paragraph, however, shall be interpreted as barring or delaying action by the judicial body on a case because a similar charge is pending before a civil court.
     Section 5. Representation and Accountability
         This Association shall be the sole representative of the entire Stanford student body.
             A. Within the University
