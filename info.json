@@ -1,12 +1,12 @@
 {
     "docs": [
         {
-            "name": "Test Document 1",
-            "path": "test.md"
-        },
-        {
             "name": "ASSU Constituion",
             "path": "constitution.md"
+        },
+        {
+            "name": "Test Document 1",
+            "path": "test.md"
         }
     ]
 }
