@@ -1,13 +1,12 @@
 ﻿# The Constitution of the Associated Students of Stanford University
 
+![](https://assu.stanford.edu/sites/g/files/sbiybj6236/f/assu_logo_transparent_background_for_small_documents-01.png =200x)
 
 1. Preamble to the Constitution
     1. The Signing Statement  
         In order to encourage responsible citizenship and the exercise of individual and corporate responsibility on the part of students in the government of student affairs and activities, Stanford University, by approval of this Constitution, authorizes the Associated Students of Stanford University to exercise and discharge major privileges and responsibilities within the framework of policies and regulations established by the University through the President of the University and the Board of Trustees.
     2. Preamble  
         We, the students of Stanford University, in order to advance our interests, define our responsibilities and to provide for our meaningful participation in the governance of the University, do hereby associate and establish this Constitution. Having received the acceptance of the University and the Board of Trustees, this Constitution shall be respected by University officials, faculty and staff in their dealings with students of the University.
-
-
 2. Name, Scope, Membership, and Independence
     1. Name  
         The name of the organization under this Constitution shall be the Associated Students of Stanford University, hereafter referred to as the “Association.”
@@ -62,37 +61,35 @@
         9.  During the closed session, the body shall discuss only the issue or issues which caused the meeting to be closed.
     8.  Amendment  
         The power to amend this Constitution [which][4] shall in perpetuity be vested in the members of the Association [shall be exercised pursuant to the terms and procedures of Article VII of this Constitution].[5]
-
-
-Article II: Legislative Branch
-    Section 1. Representative Authority
+3. Legislative Branch
+    1. Representative Authority
         1. The representative authority of the Association shall be vested in the legislative bodies of the Association.
         2. The Undergraduate Senate of the Association shall be composed of 16 members, 15 of whom shall be elected by and shall represent the undergraduate members of the Association, with the 16th member being the Vice President of the Association.
         3. The Graduate Student Council of the Association shall represent the graduate and professional members of the Association. The Graduate Student Council shall have 15 members who shall be elected by and shall represent the graduate and professional members of the Association, and shall include the Vice President of the Association as the 16th member.
-    Section 2. Membership of the Association Legislative Bodies
+    2. Membership of the Association Legislative Bodies
         1. The elected members of the Association legislative bodies shall be chosen each year in the Association Spring Quarter General Election.
         2. Each elected member of an Association legislative body shall, at the time of her/his election and during her/his continuance in office, be a member of the Association and be committed, at the time of certification of her/his election, to be a member of the constituency s/he represents during her/his term of office.
         3. An elected member of an Association legislative body shall cease to be a member of that body upon the event of her/his death, resignation, disqualification, recall, or expulsion.
         4. All vacant seats on an Association legislative body shall automatically be open should a general election be called, or a special election involving the relevant Association population.
         5. If a member of an Association legislative body loses her/his seat within 28 days of the general or special election in which s/he was elected, the vacancy created by that member shall be filled by the next-highest vote recipient in that election, who did not become a member of the relevant Association legislative body. If no such person exists, the seat shall remain vacant until filled.
         6. Nothing in this section shall be interpreted as preventing the Association legislative bodies from enforcing appropriate sanctions against candidates whose actions in seeking office were in violation of the rules governing student elections.
-    Section 3. Undergraduate Senate: Organization and Procedures
-        A. Election of the Undergraduate Senate
+    3. Undergraduate Senate: Organization and Procedures
+        1. Election of the Undergraduate Senate
             1. The fifteen members of the Undergraduate Senate shall be elected from and shall represent the undergraduate population.
             2. Each member of the undergraduate population voting may cast one vote for as many Undergraduate Senate seats as are assigned to the undergraduate population.
             3. The candidates equal in number to the number of available Undergraduate Senate seats who receive the largest number of votes shall become members of the Undergraduate Senate.
             4. If at any time more than one-third of the Undergraduate Senate seats are vacant, the Undergraduate Senate shall immediately call a special election to fill all vacant seats.
-        B. Apportionment of votes in the Undergraduate Senate
+        2. Apportionment of votes in the Undergraduate Senate
             1. The number of voting members at all meetings of the Undergraduate Senate shall depend solely on the number of elected members in attendance.
             2. No member of the Undergraduate Senate in attendance at a meeting of the Undergraduate Senate may for any reason be disenfranchised. No vote taken in violation of this rule shall be considered valid. Restricting the right of members of the Undergraduate Senate to vote based on attire, behavior, beliefs or any other grounds is prohibited.
             3. The Vice President of the Association shall have a vote only when the other voting members of the Undergraduate Senate are evenly divided.
-        C. Undergraduate Senate Quorum
+        3. Undergraduate Senate Quorum
             1. A majority of the regular members of the Undergraduate Senate shall constitute quorum to conduct business.
-        D. Ex-Officio Members of the Undergraduate Senate
+        4. Ex-Officio Members of the Undergraduate Senate
             1. The Undergraduate Senate may declare any member of the Association an ex-officio member of the Undergraduate Senate by a majority vote. No member of the Association shall be impeded from petitioning the Undergraduate Senate for the right to become an ex-officio member of the Undergraduate Senate.
             2. Ex-officio members of the Undergraduate Senate shall have all privileges afforded members of the Undergraduate Senate but shall never be permitted to vote.
             3. The President of the Association, elected members of the Graduate Student Council, and the Financial Manager shall be ex-officio members of the Undergraduate Senate.
-        E. Undergraduate Senate Term of Office
+        5. Undergraduate Senate Term of Office
             1. Members of the Association elected and certified as members of the new Undergraduate Senate shall meet as the Undergraduate Senate Elect within one week after certification by the Undergraduate Senate, and at regular intervals thereafter.
             2. The Undergraduate Senate Elect shall organize itself in a manner similar to that of the Undergraduate Senate. Members of the Undergraduate Senate Elect shall be ex-officio members of the Undergraduate Senate and observers on any body containing a member of the Undergraduate Senate. Members of the Undergraduate Senate shall be ex-officio members of the Undergraduate Senate Elect.
             3. The Vice President Elect of the Association shall be the Presiding Officer of the Undergraduate Senate Elect.
@@ -100,52 +97,52 @@ Article II: Legislative Branch
                 1. If the Undergraduate Senate Elect was elected by the Association Spring Quarter General Election, then at a date specified by the Undergraduate Senate or 14 days before the end of the spring quarter, whichever comes first, the Undergraduate Senate and the Undergraduate Senate Elect shall dissolve and the former members of the Undergraduate Senate Elect shall constitute the new Undergraduate Senate.
                 2. If the Undergraduate Senate Elect was elected in any other election, then within 14 days of certification of the election, the Undergraduate Senate Elect shall dissolve and the former members of the Undergraduate Senate Elect shall constitute the new Undergraduate Senate.
                     1. The new Undergraduate Senate shall meet at least once in the academic quarter during which it was constituted as the Undergraduate Senate. At this time, it shall formalize the membership of the Undergraduate Senate committees and the appointment of Undergraduate Senate officers.
-        F. Presiding Officer of the Undergraduate Senate
+        6. Presiding Officer of the Undergraduate Senate
             1. The Vice President of the Association shall preside over the Undergraduate Senate.
             2. The Undergraduate Senate shall choose its Chair, Deputy Chair, and other officers. The Chair shall serve at the Vice President’s convenience during regular meetings of the Undergraduate Senate.
-        G. Removal from the Undergraduate Senate
+        7. Removal from the Undergraduate Senate
             1. A member of the Undergraduate Senate may be dismissed from office in the following ways:
                 1. The undergraduate population may vote to recall the member of the Undergraduate Senate.
                 2. The Undergraduate Senate may by a two-thirds vote expel a member of the Undergraduate Senate. Previous notice of the vote to expel a member of the Undergraduate Senate must be given at the regular meeting of the Undergraduate Senate immediately prior to the meeting at which the expulsion vote takes place. An expulsion vote shall only take place at a regular meeting of the Undergraduate Senate, and the member to be expelled shall have the right to speak in her/his defense before the vote takes place.
                     1. Grounds for dismissal from the Undergraduate Senate shall include, but not be limited to, actions which clearly violate the intent of this Constitution, consistent failure to attend regular meetings of the Undergraduate Senate, actions deemed unbecoming a member of the Undergraduate Senate.
-    Section 4. Graduate Student Council: Organization and Procedures
-        A. Election of the Graduate Student Council
+    4. Graduate Student Council: Organization and Procedures
+        1. Election of the Graduate Student Council
             1. The fifteen elected members of the Graduate Student Council shall be elected from one or more districts of the graduate population and shall represent the members of that district.
             2. The Graduate Student Council may redistrict seats for its elected members, so long as they are based on an equitable apportionment amongst the graduate population.
             3. Each member of the graduate population voting may cast one vote in each district to which s/he belongs for each of as many Graduate Student Council seats are assigned to that district.
             4. In each district, the candidates equal in number to the number of Graduate Student Council seats assigned to that district who receive the largest number of votes shall become elected members of the Graduate Student Council.
             5. No member of the Association shall vote in a district of which s/he is not a member.
             6. If at any time a district has a vacant seat, the Graduate Student Council shall immediately act to fill it, by a procedure specified in the Graduate Student Council's By-Laws. New members of the Graduate Student Council resulting from this procedure shall be considered elected members for all intents and purposes.
-        B. Apportionment of votes in the Graduate Student Council
+        2. Apportionment of votes in the Graduate Student Council
             1. The number of voting members at all meetings of the Graduate Student Council shall depend solely on the number of members in attendance.
             2. The Vice President of the Association shall have a vote only when the other voting members of the Graduate Student Council are evenly divided.
             3. No member of the Graduate Student Council in attendance at a meeting of the Graduate Student Council may for any reason be disenfranchised. No vote taken in violation of this rule shall be considered valid.
-        C. Graduate Student Council Quorum
+        3. Graduate Student Council Quorum
             1. Quorum for conducting votes mandated in this Constitution shall consist of a majority of the non-vacant Graduate Student Council seats.
         Ex-Officio Members of the Graduate Student Council
             1. The President of the Association, members of the Undergraduate Senate, and Financial Manager shall be ex-officio members of the Graduate Student Council.
             2. The Graduate Student Council may appoint other members of the Association as ex-officio members of the Graduate Student Council.
-        D. Graduate Student Council Term of Office and Transition
+        4. Graduate Student Council Term of Office and Transition
             1. The term of office and transition procedures for the Graduate Student Council shall be specified in the Graduate Student Council's By-Laws, with the condition that whatever the procedures are, they must be completed by the end of the academic quarter in which the election for the Graduate Student Council took place.
-        E. Graduate Student Council Officers
+        5. Graduate Student Council Officers
             1. The Graduate Student Council shall choose its Chair, Deputy Chair, and Financial Officer. The Chair shall preside over the Graduate Student Council.
-        F. Removal from the Graduate Student Council
+        6. Removal from the Graduate Student Council
             1. The procedure for removing members of the Graduate Student Council shall be specified in the Graduate Student Council's By-Laws.
-    Section 5. Budgetary and Financial Policy
+    5. Budgetary and Financial Policy
         Except as otherwise provided in this Constitution, the members of the Association shall have the ultimate authority to determine the budget of the Association and its agencies, as well as their budgetary, financial, investment, business, and operating policies. The members of the various Association populations shall also have the ultimate authority to establish rules ensuring that funds derived from fees levied upon those populations are expended and accounted for properly. As the representative bodies for the students, the legislative bodies of the Association shall exercise these powers in the names of the members of their respective constituencies.
-    Section 6. Agencies of the Association
+    6. Agencies of the Association
         The legislative bodies of the Association shall have the power to create, modify, and abolish agencies of the Association including, but not limited to, projects providing services to members of the Association. The functions, structure, officers, and finances of all such agencies may be specified jointly by the Undergraduate Senate and the Graduate Student Council for those agencies whose purpose involves members of both the undergraduate and graduate populations. Otherwise, the above structures may be specified only by the legislative body for the relevant population.
-    Section 7. Nominations Commission
+    7. Nominations Commission
         1. Each year, the legislative bodies of the Association shall jointly choose the Nominations Commission. No member of an Association legislative body may be a member of the Nominations Commission. All members of the Association are, except as specified in this section, eligible to serve on the Nominations Commission.
         2. Student representatives for University committees shall be nominated by the Association through the Nominations Commission. Representatives of the relevant population shall be confirmed by the relevant Association legislative body and the consent of the President of the Association. The Association legislative bodies and the Association President shall not have the power to alter the nominations of the Nominations Committee.
         3. The Nominations Commission may recommend to the relevant legislative bodies the removal of any representative of the Association on a University committee who does not regularly attend meetings of her/his committees or do not otherwise fulfill her/his obligations to her/his committee. The Undergraduate Senate and the Graduate Student Council may by a two-thirds vote remove such members. The legislative bodies of the Association may only act to remove a representative of the Association after the Nominations Commission recommends her/his removal.
         4. Alternate procedures for these nominations may be specified through agreements between the relevant Association legislative bodies, the President of the Association, and the President of the University, if the Nominations Commission is unable to make the nominations. Such agreements must be submitted by the President of the Association to the relevant Association legislative bodies in writing. All such agreements must meet with the approval of the President of the Association as well as a majority vote of the Undergraduate Senate and the Graduate Student Council.
         5. No such agreement may last for more than a period of one year, but may be renewed by the relevant Association legislative body each year.
-    Section 8. Confirmation of Appointments
+    8. Confirmation of Appointments
         The Association legislative bodies shall have the right to confirm appointments of representatives of the Stanford student body, except in those cases where an alternate procedure has been approved by a majority vote of the Association voting in a general election.
-    Section 9. Elections
+    9. Elections
         Each Association legislative body shall have sole power to make rules governing elections involving only members of the population it represents, in accordance with this Constitution. For elections involving the Association population, the Association legislative bodies shall have the joint power to make rules, in accordance with this Constitution.
-    Section 10. By-Laws
+    10. By-Laws
         A. Undergraduate Senate By-Laws
             1. Shall cover those matters affecting only the undergraduate population and its representatives.
             2. May be amended at a regular meeting of the Undergraduate Senate by a two-thirds vote of the members present and voting, provided that notice has been given at the previous regular meeting.
@@ -155,23 +152,21 @@ Article II: Legislative Branch
         C. Association By-Laws
             1. Shall cover all matters affecting both the graduate and undergraduate populations, or affecting both populations' representatives.
             2. May be amended only by joint approval of the Undergraduate Senate and Graduate Student Council, in the manners described in Paragraphs A(2) and B(2) of this Section, respectively.
-    Section 11. Joint Meetings of the Association Legislative Bodies
+    11. Joint Meetings of the Association Legislative Bodies
         The Executive Committee shall have the power to call joint meetings of the Association legislative bodies. The Vice President of the Association shall serve as the Presiding Officer of all such joint meetings. The procedures for calling such meetings shall be included in the Association By-Laws. The only conditions on these procedures are that public notice must be given of all such meetings, minutes must be taken at all such meetings, and these minutes must be made publicly available within one week of being approved.
-    Section 12. Joint Approval by Association Legislative Bodies
+    12. Joint Approval by Association Legislative Bodies
         Unless otherwise stated in this Constitution, the joint approval of any item of business by the Association legislative bodies shall not necessarily require a joint meeting of the Association legislative bodies.
-    Section 13. Open Ballot
+    13. Open Ballot
        All votes of Association legislative bodies shall be by open ballot.
-
-
-Article III: Executive Branch
-    Section 1. The President and Vice President
+4. Executive Branch
+    1. The President and Vice President
         1. The President of the Association shall be the chief executive of the Association.
         2. The Vice President of the Association shall assist the President of the Association in carrying out the will of the Association.
-    Section 2. Qualifications
+    2. Qualifications
         1. The President and Vice President shall be, at the time of their election and during their continuance in office, members of the Association. Neither may simultaneously be an elected member of an Association legislative body.
         2. Should the President become incapacitated, resign, or otherwise be removed from office, the Vice President shall assume the role of President of the Association. The President shall then appoint a member of the Association to be Vice President. This appointment must be approved by a two-thirds vote of each Association legislative body.
         3. If both the President and Vice President lose office due to reasons other than the election of a new President and Vice President, the Association legislative bodies shall, within 14 days, call a general election to choose another President and Vice President. The Association legislative bodies shall, by a joint majority vote, choose a member of either Association legislative body to serve as Acting President in the interim.
-    Section 3. Election
+    3. Election
         1. Candidates for the positions of President and Vice President of the Association shall run for the positions in two-person slates. Each Member of the Association shall cast one vote for the President-Vice President slate of his or her choice.
         2. Provisions for nominations shall be specified in the Association By-Laws. In all cases, each slate of candidates shall include exactly two members, with one candidate specifically designated as the candidate for President and the other specifically designated as the candidate for Vice President. In no case may a single member of the Association simultaneously run for election as a member of two slates. Each slate shall be identified by the first and last name of its candidate for President.
         3. The President and the Vice President shall be elected by a majority of the Association voting in the Association Spring Quarter General Election.
@@ -179,7 +174,7 @@ Article III: Executive Branch
         5. No member of the Association who has served previously as President of the Association for longer than four months shall be eligible to run for that office.
         6. The terms of the President and Vice President of the Association shall end at a date specified in the Association By-Laws or 14 days before the end of the spring quarter after the Association has elected another President and Vice President of the Association.
         7. The President and/or Vice President of the Association may be removed by a four-fifths vote of each Association legislative body.
-    Section 4. Executive Committee
+    4. Executive Committee
         1. There shall exist an Executive Committee of the Association. The Executive Committee shall coordinate the administration and activities of the executive branch and Association legislative bodies.
         2. The membership of the Executive Committee shall be:
             1. The President of the Association, who shall chair the Executive Committee.
