@@ -9,7 +9,7 @@
    2. Membership and Populations
    3. Rights of Membership
    4. Rights of the Accused
-   5. Section 5. Representation and Accountability
+   5. Representation and Accountability
       1. Within the University
       2. Outside the University
    6. Independence
@@ -112,23 +112,23 @@
       3. Contracts
       4. Borrowing
 9.  Popular Legislation
-   1. Powers of the Membership of the Association
+   5. Powers of the Membership of the Association
        1.  Initiative
        2.  Referendum
        3.  Recall
        4.  Calling of Elections
-   2. Placement on the Ballot and Timing of Elections
+   6. Placement on the Ballot and Timing of Elections
       1. Initiative
       2. Referendum
       3. Recall
       4. Calling of Elections on Issues
       5. Calling of Association Legislative Body Elections
       6. General
-   3. Election Procedure
+   7. Election Procedure
       1. Notice
       2. Voting
       3. Amendment
-   4. Submission of Amendments for Ratification
+   8. Submission of Amendments for Ratification
       1. General
       2. Petitions
       3. Notice
