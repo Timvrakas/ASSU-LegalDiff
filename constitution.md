@@ -4,7 +4,6 @@
 1. Preamble to the Constitution
    1. The Signing Statement
    2. Preamble
-   
 2. Name, Scope, Membership, and Independence
    1. Name
    2. Membership and Populations
@@ -16,7 +15,6 @@
    6. Independence
    7. Freedom of Information
    8. Amendment
-   
 3. Legislative Branch
    1. Representative Authority
    2. Membership of the Association Legislative Bodies
@@ -48,21 +46,18 @@
    11. Joint Meetings of the Association Legislative Bodies
    12. Joint Approval by Association Legislative Bodies
    13. Open Ballot
-   
 4. Executive Branch
     1.  The President and Vice President
     2.  Qualifications
     3.  Election
     4.  Executive Committee
     5.  Powers and Responsibilities
-
 5. Judicial Branch
    1. Judicial Authority
    2. Judicial Review
       1. Constitutional Council
       2. Membership of the Council
       3. Meetings of the Council
-   
 6. Graduate and Joint Finances
    1. General Fees
       1. General
@@ -83,7 +78,6 @@
       2. Deviations from Special Fee Budgets
       3. Modifications of Special Fee Budgets
       4. Reserve Funds
-   
 7. Undergraduate Finances
    1. Fees due to the Association
       1. General
@@ -98,7 +92,6 @@
       3. Excess Funding
    4. Waiver of Undergraduate Student Activities Fees
    5. Routine Analysis of Funding System
-   
 8. Association Finances
    1. Budget
       1. General
@@ -118,7 +111,6 @@
       2. Annual Audit
       3. Contracts
       4. Borrowing
-   
 9.  Popular Legislation
    1. Powers of the Membership of the Association
        1.  Initiative
