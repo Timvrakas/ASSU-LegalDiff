@@ -4,7 +4,7 @@
 1. Preamble to the Constitution
    1. The Signing Statement
    2. Preamble
-2. Article I: Name, Scope, Membership, and Independence
+2. Name, Scope, Membership, and Independence
    1. Name
    2. Membership and Populations
    3. Rights of Membership
@@ -15,10 +15,10 @@
    6. Independence
    7. Freedom of Information
    8. Amendment
-3. Article II: Legislative Branch        12
-   1. Section 1. Representative Authority        12
-   2. Section 2. Membership of the Association Legislative Bodies        12
-   3. Section 3. Undergraduate Senate: Organization and Procedures        13
+3. Legislative Branch        12
+   1. Representative Authority        12
+   2. Membership of the Association Legislative Bodies        12
+   3. Undergraduate Senate: Organization and Procedures        13
       1. Election of the Undergraduate Senate        13
       2. Apportionment of votes in the Undergraduate Senate        13
       3. Undergraduate Senate Quorum        14
@@ -26,7 +26,7 @@
       5. Undergraduate Senate Term of Office        14
       6. Presiding Officer of the Undergraduate Senate        15
       7. G. Removal from the Undergraduate Senate        15
-   4. Section 4. Graduate Student Council: Organization and Procedures        15
+   4. Graduate Student Council: Organization and Procedures        15
       1. A. Election of the Graduate Student Council        15
       2. B. Apportionment of votes in the Graduate Student Council        16
       3. C. Graduate Student Council Quorum        16
@@ -34,50 +34,50 @@
       5. D. Graduate Student Council Term of Office and Transition        16
       6. E. Graduate Student Council Officers        16
       7. F. Removal from the Graduate Student Council        16
-   5. Section 5. Budgetary and Financial Policy        17
-   6. Section 6. Agencies of the Association        17
-   7. Section 7. Nominations Commission        17
-   8. Section 8. Confirmation of Appointments        18
-   9. Section 9. Elections        18
-   10. Section 10. By-Laws        18
+   5. Budgetary and Financial Policy        17
+   6. Agencies of the Association        17
+   7. Nominations Commission        17
+   8. Confirmation of Appointments        18
+   9. Elections        18
+   10. By-Laws        18
        1.  A. Undergraduate Senate By-Laws        18
        2.  B. Graduate Student Council By-Laws        18
        3.  C. Association By-Laws        18
-   11. Section 11. Joint Meetings of the Association Legislative Bodies        19
-   12. Section 12. Joint Approval by Association Legislative Bodies        19
-   13. Section 13. Open Ballot        19
-4.  Article III: Executive Branch        20
-    1.  Section 1. The President and Vice President        20
-    2.  Section 2. Qualifications        20
-    3.  Section 3. Election        21
-    4.  Section 4. Executive Committee        21
-    5.  Section 5. Powers and Responsibilities        22
-5. Article IV: Judicial Branch        24
-   1. Section 1. Judicial Authority        24
-   2. Section 2. Judicial Review        24
-      1. A. Constitutional Council        24
-      2. B. Membership of the Council        25
-      3. C. Meetings of the Council        25
-6. Article V: Graduate and Joint Finances        26
-   1. Section 1. General Fees        26
-      1. A. General        26
-      2. B. Modification of General Fees        26
-   2. Section 2. Special Fees        27
-      1. A. Placement on the Ballot        27
-      2. B. Placement on the Ballot in Extenuating Circumstances        29
-      3. C. Financial Information        29
-      4. D. Division of Special Fee Requests        29
-      5. E. Approval by the Association        29
+   11. Joint Meetings of the Association Legislative Bodies        19
+   12. Joint Approval by Association Legislative Bodies        19
+   13. Open Ballot        19
+4. Executive Branch        20
+    1.  The President and Vice President        20
+    2.  Qualifications        20
+    3.  Election        21
+    4.  Executive Committee        21
+    5.  Powers and Responsibilities        22
+5. Judicial Branch        24
+   1. Judicial Authority        24
+   2. Judicial Review        24
+      1. Constitutional Council        24
+      2. Membership of the Council        25
+      3. Meetings of the Council        25
+6. Graduate and Joint Finances        26
+   1. General Fees        26
+      1. General        26
+      2. Modification of General Fees        26
+   2. Special Fees        27
+      1. Placement on the Ballot        27
+      2. Placement on the Ballot in Extenuating Circumstances        29
+      3. Financial Information        29
+      4. Division of Special Fee Requests        29
+      5. Approval by the Association        29
       6. [Deleted Section F. Approval of the University]        30
-   3. Section 3. Collection of the General and Special Fees        30
-      1. A. Collection Schedule        30
-      2. B. Collection of Fees        30
-   4. Section 4. Refund of the General and Special Fees        31
-   5. Section 5. Distribution of the General and Special Fees        31
-      1. A. Distribution of General and Special Fees        31
-      2. B. Deviations from Special Fee Budgets        31
-      3. C. Modifications of Special Fee Budgets        31
-      4. D. Reserve Funds        31
+   3. Collection of the General and Special Fees        30
+      1. Collection Schedule        30
+      2. Collection of Fees        30
+   4. Refund of the General and Special Fees        31
+   5. Distribution of the General and Special Fees        31
+      1. Distribution of General and Special Fees        31
+      2. Deviations from Special Fee Budgets        31
+      3. Modifications of Special Fee Budgets        31
+      4. Reserve Funds        31
 
 
 Article VI: Undergraduate Finances        32
