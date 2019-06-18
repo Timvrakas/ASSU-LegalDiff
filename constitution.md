@@ -3,18 +3,18 @@
 ### Table of Contents
 1. Preamble to the Constitution
    1. The Signing Statement
-   1. Preamble
-1. Article I: Name, Scope, Membership, and Independence        8
-   1. Section 1. Name        8
-    Section 2. Membership and Populations        8
-    Section 3. Rights of Membership        9
-    Section 4. Rights of the Accused        9
-    Section 5. Representation and Accountability        10
-        A. Within the University        10
-        B. Outside the University        10
-    Section 6. Independence        10
-    Section 7. Freedom of Information        10
-    Section 8. Amendment        11
+   2. Preamble
+2. Article I: Name, Scope, Membership, and Independence        8
+   1. Name        8
+   2. Membership and Populations        8
+   3. Rights of Membership        9
+   4. Rights of the Accused        9
+   5. Section 5. Representation and Accountability        10
+      1. Within the University        10
+      2. Outside the University        10
+   6. Independence        10
+   7. Freedom of Information        10
+   8. Amendment        11
 Article II: Legislative Branch        12
     Section 1. Representative Authority        12
     Section 2. Membership of the Association Legislative Bodies        12
