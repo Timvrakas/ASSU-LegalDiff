@@ -1,9 +1,10 @@
 ﻿# The Constitution of the Associated Students of Stanford University
 
-### Table of Contents
+## Table of Contents
 1. Preamble to the Constitution
    1. The Signing Statement
    2. Preamble
+   
 2. Name, Scope, Membership, and Independence
    1. Name
    2. Membership and Populations
@@ -15,133 +16,142 @@
    6. Independence
    7. Freedom of Information
    8. Amendment
-3. Legislative Branch        12
-   1. Representative Authority        12
-   2. Membership of the Association Legislative Bodies        12
-   3. Undergraduate Senate: Organization and Procedures        13
-      1. Election of the Undergraduate Senate        13
-      2. Apportionment of votes in the Undergraduate Senate        13
-      3. Undergraduate Senate Quorum        14
-      4. Ex-Officio Members of the Undergraduate Senate        14
-      5. Undergraduate Senate Term of Office        14
-      6. Presiding Officer of the Undergraduate Senate        15
-      7. G. Removal from the Undergraduate Senate        15
-   4. Graduate Student Council: Organization and Procedures        15
-      1. A. Election of the Graduate Student Council        15
-      2. B. Apportionment of votes in the Graduate Student Council        16
-      3. C. Graduate Student Council Quorum        16
-      4. Ex-Officio Members of the Graduate Student Council        16
-      5. D. Graduate Student Council Term of Office and Transition        16
-      6. E. Graduate Student Council Officers        16
-      7. F. Removal from the Graduate Student Council        16
-   5. Budgetary and Financial Policy        17
-   6. Agencies of the Association        17
-   7. Nominations Commission        17
-   8. Confirmation of Appointments        18
-   9. Elections        18
-   10. By-Laws        18
-       1.  A. Undergraduate Senate By-Laws        18
-       2.  B. Graduate Student Council By-Laws        18
-       3.  C. Association By-Laws        18
-   11. Joint Meetings of the Association Legislative Bodies        19
-   12. Joint Approval by Association Legislative Bodies        19
-   13. Open Ballot        19
-4. Executive Branch        20
-    1.  The President and Vice President        20
-    2.  Qualifications        20
-    3.  Election        21
-    4.  Executive Committee        21
-    5.  Powers and Responsibilities        22
-5. Judicial Branch        24
-   1. Judicial Authority        24
-   2. Judicial Review        24
-      1. Constitutional Council        24
-      2. Membership of the Council        25
-      3. Meetings of the Council        25
-6. Graduate and Joint Finances        26
-   1. General Fees        26
-      1. General        26
-      2. Modification of General Fees        26
-   2. Special Fees        27
-      1. Placement on the Ballot        27
-      2. Placement on the Ballot in Extenuating Circumstances        29
-      3. Financial Information        29
-      4. Division of Special Fee Requests        29
-      5. Approval by the Association        29
-      6. [Deleted Section F. Approval of the University]        30
-   3. Collection of the General and Special Fees        30
-      1. Collection Schedule        30
-      2. Collection of Fees        30
-   4. Refund of the General and Special Fees        31
-   5. Distribution of the General and Special Fees        31
-      1. Distribution of General and Special Fees        31
-      2. Deviations from Special Fee Budgets        31
-      3. Modifications of Special Fee Budgets        31
-      4. Reserve Funds        31
+   
+3. Legislative Branch
+   1. Representative Authority
+   2. Membership of the Association Legislative Bodies
+   3. Undergraduate Senate: Organization and Procedures
+      1. Election of the Undergraduate Senate
+      2. Apportionment of votes in the Undergraduate Senate
+      3. Undergraduate Senate Quorum
+      4. Ex-Officio Members of the Undergraduate Senate
+      5. Undergraduate Senate Term of Office
+      6. Presiding Officer of the Undergraduate Senate
+      7. G. Removal from the Undergraduate Senate
+   4. Graduate Student Council: Organization and Procedures
+      1. Election of the Graduate Student Council
+      2. Apportionment of votes in the Graduate Student Council
+      3. Graduate Student Council Quorum
+      4. Ex-Officio Members of the Graduate Student Council
+      5. Graduate Student Council Term of Office and Transition
+      6. Graduate Student Council Officers
+      7. Removal from the Graduate Student Council
+   5. Budgetary and Financial Policy
+   6. Agencies of the Association
+   7. Nominations Commission
+   8. Confirmation of Appointments
+   9. Elections
+   10. By-Laws
+       1. Undergraduate Senate By-Laws
+       2. Graduate Student Council By-Laws
+       3. Association By-Laws
+   11. Joint Meetings of the Association Legislative Bodies
+   12. Joint Approval by Association Legislative Bodies
+   13. Open Ballot
+   
+4. Executive Branch
+    1.  The President and Vice President
+    2.  Qualifications
+    3.  Election
+    4.  Executive Committee
+    5.  Powers and Responsibilities
 
+5. Judicial Branch
+   1. Judicial Authority
+   2. Judicial Review
+      1. Constitutional Council
+      2. Membership of the Council
+      3. Meetings of the Council
+   
+6. Graduate and Joint Finances
+   1. General Fees
+      1. General
+      2. Modification of General Fees
+   2. Special Fees
+      1. Placement on the Ballot
+      2. Placement on the Ballot in Extenuating Circumstances
+      3. Financial Information
+      4. Division of Special Fee Requests
+      5. Approval by the Association
+      6. [Deleted Section F. Approval of the University]
+   3. Collection of the General and Special Fees
+      1. Collection Schedule
+      2. Collection of Fees
+   4. Refund of the General and Special Fees
+   5. Distribution of the General and Special Fees
+      1. Distribution of General and Special Fees
+      2. Deviations from Special Fee Budgets
+      3. Modifications of Special Fee Budgets
+      4. Reserve Funds
+   
+7. Undergraduate Finances
+   1. Fees due to the Association
+      1. General
+      2. Definition of each Undergraduate Student Activities Fee
+      3. Management of Undergraduate Student Activities Fees
+   2. Collection of Undergraduate Student Activities Fees
+      1. Collection Schedule
+      2. Collection of Fees
+   3. Distribution of Fees
+      1. Oversight of Fees
+      2. Allocable amounts
+      3. Excess Funding
+   4. Waiver of Undergraduate Student Activities Fees
+   5. Routine Analysis of Funding System
+   
+8. Association Finances
+   1. Budget
+      1. General
+      2. Operating Budget
+      3. Other Budgets
+      4. Capital Expenditures
+   2. Students' Organizations Fund
+      1. General
+      2. Banking Requirement
+   3. Financial Manager
+      1. Duties
+      2. Selection and Term of Office
+      3. Removal
+      4. Association Staff
+   4. General Provisions
+      1. Fiscal Yea
+      2. Annual Audit
+      3. Contracts
+      4. Borrowing
+   
+9.  Popular Legislation
+   1. Powers of the Membership of the Association
+       1.  Initiative
+       2.  Referendum
+       3.  Recall
+       4.  Calling of Elections
+   2. Placement on the Ballot and Timing of Elections
+      1. Initiative
+      2. Referendum
+      3. Recall
+      4. Calling of Elections on Issues
+      5. Calling of Association Legislative Body Elections
+      6. General
+   3. Election Procedure
+      1. Notice
+      2. Voting
+      3. Amendment
+   4. Submission of Amendments for Ratification
+      1. General
+      2. Petitions
+      3. Notice
+?? Lol?
 
-Article VI: Undergraduate Finances        32
-    Section 1: Fees due to the Association        32
-        A. General        32
-        B. Definition of each Undergraduate Student Activities Fee        33
-        C. Management of Undergraduate Student Activities Fees        33
-    Section 2: Collection of Undergraduate Student Activities Fees        35
-        A. Collection Schedule        35
-        B. Collection of Fees        35
-    Section 3. Distribution of Fees        35
-        A. Oversight of Fees        35
-        B. Allocable amounts        36
-        C. Excess Funding        37
-    Section 4. Waiver of Undergraduate Student Activities Fees        37
-    Section 5. Routine Analysis of Funding System        37
-Article VII: Association Finances        38
-    Section 1. Budget        38
-        A. General        38
-        B. Operating Budget        38
-        C. Other Budgets        39
-        D. Capital Expenditures        40
-    Section 2. Students' Organizations Fund        40
-        A. General        40
-        B. Banking Requirement        40
-    Section 3. Financial Manager        40
-        A. Duties        40
-        B. Selection and Term of Office        41
-        C. Removal        41
-        D. Association Staff        41
-    Section 4. General Provisions        42
-        A. Fiscal Year        42
-        B. Annual Audit        42
-        C. Contracts        42
-        D. Borrowing        42
-Article VIII: Popular Legislation        43
-    Section 1. Powers of the Membership of the Association        43
-        A. Initiative        43
-        B. Referendum        43
-        C. Recall        43
-        D. Calling of Elections        44
-    Section 2. Placement on the Ballot and Timing of Elections        44
-        A. Initiative        44
-        B. Referendum        45
-        C. Recall        45
-        D. Calling of Elections on Issues        46
-        E. Calling of Association Legislative Body Elections        47
-        F. General        47
-    Section 3. Election Procedure        48
-        A. Notice        48
-        B. Voting        48
-Article IV: Amendment        49
-    Section 1. Submission of Amendments for Ratification        49
-        A. General        49
-        B. Petitions        49
-        C. Notice        51
     Section 2. Ratification        51
     Section 3. Unconditional Acceptance        51
     Section 4. Acceptance with Conditions        52
     Section 5. Finality of Acceptance        52
     Section 6. Integrity of This Document        52
+
 Article X: Disposition of Assets In the Event of Dissolution of the Association        54
     Section 1. Property of the Association        54
     Section 2. Property in the Custody of the Association        54
+    
 Appendix 1: Fee Statement of the Undergraduate Programming, Social, and Community Service Organization Fee        55
     Section 1: General        55
         A. Base Amount        55
