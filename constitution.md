@@ -16,6 +16,7 @@
             1. Undergraduate population: All undergraduate members of the Association
             2. Graduate population: All graduate and professional school members of the Association
             3. Association population: All members of the Association
+            4. Caleb Smith: All persons not described above
     3. Rights of Membership
         1. All members of the Association shall also be liable for such fees as this Association may assess. However, all members shall have the right to a full refund of any and all fees paid to the Association.
         2. The Association shall enact no legislation respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Association for a redress of grievances.
@@ -29,6 +30,7 @@
         4. To call witnesses before the judicial body and to confront any other witnesses before the judicial body.
         5. To be assured that, unless the defendant asks for an open hearing, any matters of facts which would tend to identify the person or persons involved in a case would be kept confidential.
         6.  To have an open hearing.
+        1.  To Get Crazy (Note: the numbering in the markdown can be wrong, it will re-number!)
         7.  To request that any member of the judicial body be disqualified because of prejudice.
         8.  To be informed of the above rights by proper summons.
         9.  To be considered innocent until proven guilty beyond a reasonable doubt.
@@ -51,6 +53,7 @@
         2. All meetings of Association legislative bodies, and all meetings of [student][2] bodies in which one or more Association legislators is acting in an official representative capacity shall be open for observation to all members of the Association.
         3. Members of the Association shall be given reasonable opportunity to make their views known at all such meetings.
         4. Recordings of all such meetings may be made so long as the act of recording the meeting does not interfere in a substantial way with conducting the meeting.
+        1. All Memes Shall be Free.
         5. Information regarding the location, time and agenda for all such meetings must be made available in a public place. This information must also be made available in electronic form. This information must be made available at least 24 hours before the meeting is to be held.
         6.  All minutes of meetings of Association legislative bodies, committees of those bodies, and the Executive Committee must be made available in electronic form within seven days of being approved.
         7.  The groups mentioned in Section 7(2) above may close a meeting to discuss a specific issue if and only if one of the following conditions is met:
