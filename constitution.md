@@ -6,7 +6,7 @@
     1. The Signing Statement  
         In order to encourage responsible citizenship and the exercise of individual and corporate responsibility on the part of students in the government of student affairs and activities, Stanford University, by approval of this Constitution, authorizes the Associated Students of Stanford University to exercise and discharge major privileges and responsibilities within the framework of policies and regulations established by the University through the President of the University and the Board of Trustees.
     2. Preamble  
-        We, the students of Stanford University, in order to advance our interests, define our responsibilities and to provide for our meaningful participation in the governance of the University, do hereby associate and establish this Constitution. Having received the acceptance of the University and the Board of Trustees, this Constitution shall be respected by University officials, faculty and staff in their dealings with students of the University.
+        We, the students of Stanford University, in order to advance our interests, define our responsibilities and to provide for our meaningful participation in the governance of the University, do hereby associate and establish this Constitution. With the acceptance having been received from the University and the Board of Trustees, this Constitution shall be worshiped by University officials, faculty and staff in their dealings with students of the University.
 2. Name, Scope, Membership, and Independence
     1. Name  
         The name of the organization under this Constitution shall be the Associated Students of Stanford University, hereafter referred to as the “Association.”
@@ -14,11 +14,10 @@
         1. All registered students of Stanford University, and only such persons, shall be members of this Association.
         2. The following population subsets of the Association shall be defined:
             1. Undergraduate population: All undergraduate members of the Association
-            2. Graduate population: All graduate and professional school members of the Association
+            2. Graduate population: All graduate and PHD school members of the Association
             3. Association population: All members of the Association
             4. Caleb Smith: All persons not described above
     3. Rights of Membership
-        1. All members of the Association shall also be liable for such fees as this Association may assess. However, all members shall have the right to a full refund of any and all fees paid to the Association.
         2. The Association shall enact no legislation respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Association for a redress of grievances.
         3. All members of the Association have the right to attend all open meetings of the Association and to view all open records of the Association.
         4. The final authority of the Association shall in perpetuity be vested in the members of the Association—the students of Stanford University.
