@@ -47,37 +47,39 @@
    12. Section 12. Joint Approval by Association Legislative Bodies        19
    13. Section 13. Open Ballot        19
 4.  Article III: Executive Branch        20
-    Section 1. The President and Vice President        20
-    Section 2. Qualifications        20
-    Section 3. Election        21
-    Section 4. Executive Committee        21
-    Section 5. Powers and Responsibilities        22
-Article IV: Judicial Branch        24
-    Section 1. Judicial Authority        24
-    Section 2. Judicial Review        24
-        A. Constitutional Council        24
-        B. Membership of the Council        25
-        C. Meetings of the Council        25
-Article V: Graduate and Joint Finances        26
-    Section 1. General Fees        26
-        A. General        26
-        B. Modification of General Fees        26
-    Section 2. Special Fees        27
-        A. Placement on the Ballot        27
-        B. Placement on the Ballot in Extenuating Circumstances        29
-        C. Financial Information        29
-        D. Division of Special Fee Requests        29
-        E. Approval by the Association        29
-        [Deleted Section F. Approval of the University]        30
-    Section 3. Collection of the General and Special Fees        30
-        A. Collection Schedule        30
-        B. Collection of Fees        30
-    Section 4. Refund of the General and Special Fees        31
-    Section 5. Distribution of the General and Special Fees        31
-        A. Distribution of General and Special Fees        31
-        B. Deviations from Special Fee Budgets        31
-        C. Modifications of Special Fee Budgets        31
-        D. Reserve Funds        31
+    1.  Section 1. The President and Vice President        20
+    2.  Section 2. Qualifications        20
+    3.  Section 3. Election        21
+    4.  Section 4. Executive Committee        21
+    5.  Section 5. Powers and Responsibilities        22
+5. Article IV: Judicial Branch        24
+   1. Section 1. Judicial Authority        24
+   2. Section 2. Judicial Review        24
+      1. A. Constitutional Council        24
+      2. B. Membership of the Council        25
+      3. C. Meetings of the Council        25
+6. Article V: Graduate and Joint Finances        26
+   1. Section 1. General Fees        26
+      1. A. General        26
+      2. B. Modification of General Fees        26
+   2. Section 2. Special Fees        27
+      1. A. Placement on the Ballot        27
+      2. B. Placement on the Ballot in Extenuating Circumstances        29
+      3. C. Financial Information        29
+      4. D. Division of Special Fee Requests        29
+      5. E. Approval by the Association        29
+      6. [Deleted Section F. Approval of the University]        30
+   3. Section 3. Collection of the General and Special Fees        30
+      1. A. Collection Schedule        30
+      2. B. Collection of Fees        30
+   4. Section 4. Refund of the General and Special Fees        31
+   5. Section 5. Distribution of the General and Special Fees        31
+      1. A. Distribution of General and Special Fees        31
+      2. B. Deviations from Special Fee Budgets        31
+      3. C. Modifications of Special Fee Budgets        31
+      4. D. Reserve Funds        31
+
+
 Article VI: Undergraduate Finances        32
     Section 1: Fees due to the Association        32
         A. General        32
