@@ -15,19 +15,18 @@
    6. Independence
    7. Freedom of Information
    8. Amendment
-   
-Article II: Legislative Branch        12
-    Section 1. Representative Authority        12
-    Section 2. Membership of the Association Legislative Bodies        12
-    Section 3. Undergraduate Senate: Organization and Procedures        13
-        A. Election of the Undergraduate Senate        13
-        B. Apportionment of votes in the Undergraduate Senate        13
-        C. Undergraduate Senate Quorum        14
-        D. Ex-Officio Members of the Undergraduate Senate        14
-        E. Undergraduate Senate Term of Office        14
-        F. Presiding Officer of the Undergraduate Senate        15
-        G. Removal from the Undergraduate Senate        15
-    Section 4. Graduate Student Council: Organization and Procedures        15
+3. Article II: Legislative Branch        12
+   1. Section 1. Representative Authority        12
+   2. Section 2. Membership of the Association Legislative Bodies        12
+   3. Section 3. Undergraduate Senate: Organization and Procedures        13
+      1. Election of the Undergraduate Senate        13
+      2. Apportionment of votes in the Undergraduate Senate        13
+      3. Undergraduate Senate Quorum        14
+      4. Ex-Officio Members of the Undergraduate Senate        14
+      5. Undergraduate Senate Term of Office        14
+      6. Presiding Officer of the Undergraduate Senate        15
+      7. G. Removal from the Undergraduate Senate        15
+   4. Section 4. Graduate Student Council: Organization and Procedures        15
         A. Election of the Graduate Student Council        15
         B. Apportionment of votes in the Graduate Student Council        16
         C. Graduate Student Council Quorum        16
