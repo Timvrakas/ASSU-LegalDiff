@@ -2,14 +2,14 @@
 
 
 1. Preamble to the Constitution
-    1. The Signing Statement
+    1. The Signing Statement  
         In order to encourage responsible citizenship and the exercise of individual and corporate responsibility on the part of students in the government of student affairs and activities, Stanford University, by approval of this Constitution, authorizes the Associated Students of Stanford University to exercise and discharge major privileges and responsibilities within the framework of policies and regulations established by the University through the President of the University and the Board of Trustees.
-    2. Preamble
+    2. Preamble  
         We, the students of Stanford University, in order to advance our interests, define our responsibilities and to provide for our meaningful participation in the governance of the University, do hereby associate and establish this Constitution. Having received the acceptance of the University and the Board of Trustees, this Constitution shall be respected by University officials, faculty and staff in their dealings with students of the University.
 
 
 2. Name, Scope, Membership, and Independence
-    1. Name
+    1. Name  
         The name of the organization under this Constitution shall be the Associated Students of Stanford University, hereafter referred to as the “Association.”
     2. Membership and Populations
         1. All registered students of Stanford University, and only such persons, shall be members of this Association.
@@ -22,7 +22,7 @@
         2. The Association shall enact no legislation respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Association for a redress of grievances.
         3. All members of the Association have the right to attend all open meetings of the Association and to view all open records of the Association.
         4. The final authority of the Association shall in perpetuity be vested in the members of the Association—the students of Stanford University.
-    4. Rights of the Accused
+    4. Rights of the Accused  
         An accused member of the Association shall have the following rights. Any judicial body hearing a case against that person shall inform her or him of his or her rights guaranteed under this section at the time she or he is notified of the charges against him or her.
         1. To be informed of all the charges and the alleged acts upon which those charges are based.
         2. To be allowed a reasonable time in which to prepare a defense.
@@ -36,9 +36,9 @@
         10. To be assured that no record of the case is placed on their transcript.
         11. To have no person presenting evidence against them sit in judgment of them.
         12. In instances of conviction under State or Federal law, the judicial body shall not assess penalties if the circumstances of the case indicate that such penalties would be inequitable to the defendant when imposed in addition to civil or criminal penalties. This limitation shall not apply when the judicial body’s proceedings are deemed necessary by the judicial body to protect the University community from risk or harm. Nothing in this paragraph, however, shall be interpreted as barring or delaying action by the judicial body on a case because a similar charge is pending before a civil court.
-    5.  Representation and Accountability
+    5.  Representation and Accountability  
         This Association shall be the sole representative of the entire Stanford student body.
-        1. Within the University
+        1. Within the University  
             Only this Association and its designees shall represent the entire Stanford student body, or a population of the Association, in any dealings with other elements of the University.
         2. Outside the University
             1. Only this Association and its designees shall have the right to represent the entire Stanford student body, or a population of the Association, in non-University affairs.
@@ -60,7 +60,7 @@
             3. The body must discuss proprietary business practices.
         8.  Information regarding the general content of a closed meeting and the reason for its closure shall be made available to the public 24 hours in advance of the meeting.
         9.  During the closed session, the body shall discuss only the issue or issues which caused the meeting to be closed.
-    8.  Amendment
+    8.  Amendment  
         The power to amend this Constitution [which][4] shall in perpetuity be vested in the members of the Association [shall be exercised pursuant to the terms and procedures of Article VII of this Constitution].[5]
 
 
